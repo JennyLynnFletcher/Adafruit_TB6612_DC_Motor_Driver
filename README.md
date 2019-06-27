@@ -8,7 +8,7 @@ Requires Rpi.GPIO
 
 This can be installed from repository with 
 
-`sudo apt-get update`
+`sudo apt-get install rpi.gpio`
 
 ## Example Code
 See test.py for basic usage
