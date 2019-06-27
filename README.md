@@ -1,6 +1,6 @@
 # Adafruit TB6612 DC Motor Driver
 
-A small Python library for running a DC motor using the Adafruit TB6612 motor driver
+A small Python library for running a DC motor using the Adafruit TB6612 motor driver with a Raspberry Pi
 
 # Getting Started
 ## Requirements
